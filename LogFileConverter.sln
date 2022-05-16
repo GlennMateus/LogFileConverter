@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileConverter", "LogFileConverter\LogFileConverter.csproj", "{EAF86969-2F0D-4889-AE39-53D2C7C4639E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF86969-2F0D-4889-AE39-53D2C7C4639E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF86969-2F0D-4889-AE39-53D2C7C4639E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF86969-2F0D-4889-AE39-53D2C7C4639E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF86969-2F0D-4889-AE39-53D2C7C4639E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
