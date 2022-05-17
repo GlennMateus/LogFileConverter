@@ -1,4 +1,4 @@
-﻿namespace LogFileConverter.Entities;
+﻿namespace Entities;
 
 public struct DirectoryFunctions
 {
